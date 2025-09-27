@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Jennie-site',
   description: 'A VitePress Site',
-  base: '/Jennie/',
+  // base: '/Jennie/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
