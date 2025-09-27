@@ -11,7 +11,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
     ],
-
     sidebar: [
       {
         text: '资料',
@@ -23,7 +22,6 @@ export default defineConfig({
         ],
       },
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/chensidi' },
     ],
